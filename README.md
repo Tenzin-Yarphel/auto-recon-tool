@@ -7,4 +7,7 @@ tool developed to automate reconnaissance phase in penetration testing using ope
 - gowitness
 - httprobe
 
-## sybtax : ./recon-new.sh {domain_name}
+### syntax
+```
+./recon-new.sh {domain_name}
+```
